@@ -7,3 +7,4 @@ A tweak to Google Chrome Light Theme by Stylefox [Google Chrome Light Theme by S
 
 ## Tweaks
 1. Removed popup menu borders.
+2. Lightened toolbar bottom separator.
