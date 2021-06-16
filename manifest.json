@@ -4,7 +4,7 @@
     "author": "zhangtianli",
     "description": "A tweak to Google Chrome Light Theme to adapt Proton Design.",
     "manifest_version": 2,
-    "version": "1.2",
+    "version": "1.2.1",
 
     "theme": {
         "colors": {
