@@ -33,7 +33,6 @@
             "toolbar_field_highlight_text": "rgba(33, 33, 33, 1)",
             "toolbar_field_focus": "rgba(255, 255, 255, 1)",
             "toolbar_field_border": "transparent",
-            "toolbar_field_separator": "rgba(241, 243, 244, 1)",
             "toolbar_field_border_focus": "rgba(179, 206, 251, 1)",
 
             "button_background_hover": "rgba(238, 238, 238, 1)",
